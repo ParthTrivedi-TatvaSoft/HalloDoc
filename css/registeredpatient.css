@@ -53,15 +53,13 @@ footer{
     margin-top: 10%;
     
 }
-.icon1{
+
+.icon{
     float: right;
-    margin-left: 240px;
-    
+    margin-right: 10px;
+    margin-top: -40px;
 }
-.icon2{
-    float: right;
-    margin-left: 210px;
-}
+
 p{
     
     color: blue;
